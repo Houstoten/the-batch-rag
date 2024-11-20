@@ -1,2 +1,11 @@
 streamlit
 openai
+kaggle
+pandas
+langchain 
+langchain_chroma 
+langchain_cohere 
+langchain-community 
+langchain-openai
+sentence_transformers
+pysqlite3-binary
